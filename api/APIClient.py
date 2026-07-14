@@ -1,5 +1,6 @@
 import httpx
 
+# APIClient is a simple wrapper around the httpx library to facilitate making HTTP requests to a base URL.
 
 class APIClient:
     BASE_URL = "https://jsonplaceholder.typicode.com"
