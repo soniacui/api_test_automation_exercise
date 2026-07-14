@@ -1,0 +1,8 @@
+{
+  "endpoint": "/posts",
+  "payload": {
+    "title": "Post title",
+    "body": "Post body",
+    "userId": 1
+  }
+}

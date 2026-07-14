@@ -1,0 +1,6 @@
+{
+  "endpoint": "/todos/1",
+  "payload": {
+    "completed": true
+  }
+}

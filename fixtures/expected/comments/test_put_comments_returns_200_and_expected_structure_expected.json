@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Updated comment",
+  "email": "updated@example.com",
+  "body": "Updated comment body",
+  "postId": 1
+}

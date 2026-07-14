@@ -1,0 +1,6 @@
+{
+  "endpoint": "/comments/1",
+  "payload": {
+    "name": "Patched comment"
+  }
+}

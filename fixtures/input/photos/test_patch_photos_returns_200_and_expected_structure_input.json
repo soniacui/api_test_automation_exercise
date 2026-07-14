@@ -1,0 +1,6 @@
+{
+  "endpoint": "/photos/1",
+  "payload": {
+    "title": "Patched photo"
+  }
+}

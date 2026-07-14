@@ -1,0 +1,9 @@
+{
+  "endpoint": "/comments",
+  "payload": {
+    "name": "Comment name",
+    "email": "qa@example.com",
+    "body": "Comment body",
+    "postId": 1
+  }
+}

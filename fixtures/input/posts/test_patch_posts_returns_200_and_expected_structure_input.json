@@ -1,0 +1,6 @@
+{
+  "endpoint": "/posts/1",
+  "payload": {
+    "title": "Patched post"
+  }
+}

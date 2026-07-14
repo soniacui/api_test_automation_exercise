@@ -1,0 +1,8 @@
+{
+  "endpoint": "/todos",
+  "payload": {
+    "title": "Todo title",
+    "completed": false,
+    "userId": 1
+  }
+}
