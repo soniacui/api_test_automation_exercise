@@ -35,10 +35,10 @@ python -m pytest --html-report.html
 1. Console output
    <img width="1124" height="238" alt="image" src="https://github.com/user-attachments/assets/1a904f91-864b-4eb0-bba7-1cbff08a2b73" />
 
-3. Visual HTML report - Upon running above command, a `report.html` file will be generated at the root level. Open this file in any browser to view a comprehensive report.
+2. Visual HTML report - Upon running above command, a `report.html` file will be generated at the root level. Open this file in any browser to view a comprehensive report.
 
-> **Note:** You may have to open your computer's file explorer and manually look for the file for it to load properly. If you drag `report.html` directly into a browser, it may open as a blank screen.
-
+> [!NOTE]
+> You may have to open your computer's file explorer and manually look for the file for it to load properly. If you drag `report.html` directly into a browser, it may open as a blank screen.
 
    <img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/d5001109-b632-4dd2-a041-3b3ad309fa98" />
 
