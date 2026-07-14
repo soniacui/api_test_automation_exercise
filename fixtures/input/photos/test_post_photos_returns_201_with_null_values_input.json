@@ -1,0 +1,9 @@
+{
+  "endpoint": "/photos",
+  "payload": {
+    "title": null,
+    "url": null,
+    "thumbnailUrl": null,
+    "albumId": null
+  }
+}

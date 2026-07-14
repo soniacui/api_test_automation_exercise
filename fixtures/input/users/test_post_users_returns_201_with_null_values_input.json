@@ -1,0 +1,8 @@
+{
+  "endpoint": "/users",
+  "payload": {
+    "name": null,
+    "username": null,
+    "email": null
+  }
+}

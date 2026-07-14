@@ -1,0 +1,6 @@
+{
+  "endpoint": "/albums/1",
+  "payload": {
+    "title": "Patched album"
+  }
+}

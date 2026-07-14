@@ -1,0 +1,6 @@
+{
+  "endpoint": "/users/1",
+  "payload": {
+    "name": "Patched Jane"
+  }
+}

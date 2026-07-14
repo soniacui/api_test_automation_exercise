@@ -1,0 +1,7 @@
+{
+  "endpoint": "/albums",
+  "payload": {
+    "title": "Album title",
+    "userId": 1
+  }
+}
